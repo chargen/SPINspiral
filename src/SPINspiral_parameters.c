@@ -4,7 +4,7 @@
    SPINspiral_parameters.c:   routines to read/write input files, set constants and set true and null parameters
    
    
-   Copyright 2007, 2008, 2009 Christian Roever, Marc van der Sluys, Vivien Raymond, Ilya Mandel
+   Copyright 2007-2011 Christian Roever, Marc van der Sluys, Vivien Raymond, Ilya Mandel
    
    
    This file is part of SPINspiral.

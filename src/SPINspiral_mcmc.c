@@ -4,7 +4,7 @@
    SPINspiral_mcmc.c:         routines that form the MCMC core of the code
    
    
-   Copyright 2007, 2008, 2009 Christian Roever, Marc van der Sluys, Vivien Raymond, Ilya Mandel
+   Copyright 2007-2011 Christian Roever, Marc van der Sluys, Vivien Raymond, Ilya Mandel
    
    
    This file is part of SPINspiral.
